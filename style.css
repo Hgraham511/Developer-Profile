@@ -1,0 +1,50 @@
+body{
+  background: url("../images/6.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.img-circle{
+  height: 130px;
+  width: 130px;
+  border: solid;
+}
+.title{
+  margin-top: 5em;
+  text-align: center;
+}
+
+.text{
+  color: white;
+}
+.form{
+  text-align: center;
+  padding-top: 30px;
+}
+.btn btn-sm{
+  padding: 7px;
+}
+.social{
+  padding-top: 20px;
+  color: white;
+}
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: grey;
+}
+
+/* selected link */
+a:active {
+    color: grey;
+}
